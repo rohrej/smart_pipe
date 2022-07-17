@@ -4,7 +4,7 @@ Wrapper for smart_open to simplify piping data to services and compressing/decom
 ## Quick Start
 `pip3 install smart_open[s3]`
 
-`git clone https://rohrej/smart_pipe/_`
+`git clone https://rohrej/smart_pipe/`
 
 `cd smart_pipe`
 
